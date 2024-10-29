@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebSocketCurrency</string>
+
+    <string name="label_auth_status">Authorization Status: %s</string>
+</resources>
